@@ -4,7 +4,7 @@
 
 A calculadora foi o primeiro projeto completo desenvolvido no Programa, aplicando conceitos de HTML, CSS, DOM e JavaScript.
 
-![imagem da calculadora](screenshot_calculadora.png)
+![imagem da calculadora](screenshot_calculadora.PNG)
 
 Para a estrutura e o layout da aplicação, utilizei o seguinte [tutorial](https://www.youtube.com/watch?v=BuZtAqk5LIY&t=13s&ab_channel=OnlineTutorials), realizando pequenas modificações para adequar ao que foi pedido no exercício. A paleta de cores busquei inspiração na calculadora do iOS.
 
